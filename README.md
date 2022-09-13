@@ -1,2 +1,3 @@
-# javascript-vectors-matrix
-Lista de Vetores e Matrizes JavaScript
+#javascript-loops
+
+Exemplos de Laços de Repetição, vetores e matrizes no JavaScript. Generation Brazil.
